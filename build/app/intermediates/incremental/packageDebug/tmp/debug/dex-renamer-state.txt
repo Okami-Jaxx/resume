@@ -1,0 +1,4 @@
+#Thu Sep 14 00:01:01 ICT 2023
+base.0=D\:\\RMUTL\\year 3\\term 1\\game dev\\lab 1\\resume\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
